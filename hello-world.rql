@@ -1,7 +1,7 @@
 // Hello world Example
 // returns a simple string
 
-hello_world() := {
+hello_fork() := {
 "Hello World!"
 };
 

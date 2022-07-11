@@ -7,7 +7,7 @@ metadata:
     - helloworld
 code: rql
 declaration: hello_name
-codeFile: hello-world.rql
+codeFile: hello-fork.rql
 format: json
 security:
   public: true

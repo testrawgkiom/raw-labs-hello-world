@@ -4,10 +4,10 @@ metadata:
   title: Hello world
   description: Hello world example
   tags:
-    - helloworld
+    - hellofork
 code: rql
-declaration: hello_world
-codeFile: hello-world.rql
+declaration: hello_fork
+codeFile: hello-fork.rql
 format: json
 security:
   public: true
